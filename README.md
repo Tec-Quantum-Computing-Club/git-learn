@@ -1,1 +1,3 @@
 # Repo para practicar cosas de Git
+
+Algo para practicar...
